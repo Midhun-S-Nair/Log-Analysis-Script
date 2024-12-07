@@ -32,3 +32,19 @@ Most Frequently Accessed Endpoint: /login (Accessed 13 times)
 Suspicious Activity Detected: IP Address Failed Login Attempts 203.0.113.5 8 192.168.1.100 5
 
 Results saved to 'log_analysis_results.csv'
+
+
+**CSV File Content**:  
+- **Requests per IP**: Contains columns for `IP Address` and `Request Count`.  
+- **Most Accessed Endpoint**: Contains columns for `Endpoint` and `Access Count`.  
+- **Suspicious Activity**: Contains columns for `IP Address` and `Failed Login Count`.
+
+---
+
+## **Prerequisites**
+
+1. **Python**: Ensure Python 3.7 or higher is installed.  
+2. **Required Libraries**: Install the necessary Python libraries using the following command:
+   ```bash
+   pip install -r requirements.txt
+
