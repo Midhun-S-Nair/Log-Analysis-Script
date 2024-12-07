@@ -23,7 +23,8 @@ The results are displayed in the terminal and saved in a CSV file for easy acces
 
 ## **Sample Output**
 
-**Terminal Output**: 
+**Terminal Output**:
+
 Requests per IP Address: 203.0.113.5 8 198.51.100.23 8 192.168.1.1 7 10.0.0.2 6 192.168.1.100 5
 
 Most Frequently Accessed Endpoint: /login (Accessed 13 times)
