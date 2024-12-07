@@ -1,7 +1,6 @@
 # Log Analysis Script
 
-![image]([https://github.com/Midhun-S-Nair/AspireNex/assets/167676461/1ab78e0f-a2eb-4d85-94b8-136674c0cc9c](https://vrvsecurity.in/favicon.ico))
-
+![Log Analysis Diagram](https://vrvsecurity.in/favicon.ico)
 
 ## Overview
 
@@ -29,11 +28,6 @@ The script outputs the following in the terminal:
 - Detected suspicious activities based on failed login attempts.
 
 Additionally, a CSV file (log_analysis_results.csv) is generated with the results.
-
-## Prerequisites
-
-- Python 3.7 or higher.
-- Required libraries (listed in requirements.txt).
 
 ## Usage
 
