@@ -48,10 +48,3 @@ Results saved to 'log_analysis_results.csv'
    ```bash
    pip install -r requirements.txt
 
- Log-Analysis-Script/
-│
-├── log_analysis.py           # Main Python script
-├── sample.log                # Sample log file for testing
-├── log_analysis_results.csv  # Output file (generated after running the script)
-├── requirements.txt          # Dependencies (if any)
-├── README.md                 # Project documentation
