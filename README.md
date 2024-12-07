@@ -48,24 +48,10 @@ Results saved to 'log_analysis_results.csv'
    ```bash
    pip install -r requirements.txt
 
-   Usage
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/Midhun-S-Nair/Log-Analysis-Script.git
-cd Log-Analysis-Script
-Place the Log File:
-Add your log file in the project directory (e.g., sample.log).
-
-Run the Script:
-Execute the script with the log file:
-
-bash
-Copy code
-python log_analysis.py sample.log
-View the Results:
-
-Terminal: Displays the analysis results.
-CSV: Results are saved in log_analysis_results.csv.
-
+ Log-Analysis-Script/
+│
+├── log_analysis.py           # Main Python script
+├── sample.log                # Sample log file for testing
+├── log_analysis_results.csv  # Output file (generated after running the script)
+├── requirements.txt          # Dependencies (if any)
+├── README.md                 # Project documentation
