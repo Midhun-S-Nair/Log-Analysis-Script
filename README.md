@@ -1,5 +1,8 @@
 # Log Analysis Script
 
+![image]([https://github.com/Midhun-S-Nair/AspireNex/assets/167676461/1ab78e0f-a2eb-4d85-94b8-136674c0cc9c](https://vrvsecurity.in/favicon.ico))
+
+
 ## Overview
 
 This project contains a Python-based log analysis script designed to process web server log files and extract meaningful insights. The script performs the following analyses:
