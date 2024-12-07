@@ -41,3 +41,17 @@ Additionally, a CSV file (`log_analysis_results.csv`) is generated with the resu
 
 ## File Structure
 
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Author
+
+**Midhun S. Nair**  
+[GitHub Profile](https://github.com/Midhun-S-Nair)
+
